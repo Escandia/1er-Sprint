@@ -1,0 +1,39 @@
+*{
+  box-sizing: border-box;
+}
+.container{
+  width: 840px;
+  display: flex;
+}
+.photo-wrapper{
+ padding: 1em;
+ max-width: 50px;
+}
+.grow{
+  flex-grow: 1;
+
+}
+.button-link{
+  flex-wrap: nowrap;
+  display: flex;
+  border-radius: 4px;
+  padding: 6px 12px;
+  color: black;
+  text-decoration: none;
+}
+
+.button-fav{
+  flex-wrap: nowrap;
+  display: flex;
+  border-radius: 4px;
+  padding: 0;
+  color: black;
+  text-decoration: none;
+ }
+ .star-icon{
+  width: 72px;
+ }
+.score{
+  padding: 16px;
+  font-size: 24px;
+}

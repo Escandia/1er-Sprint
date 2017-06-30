@@ -1,0 +1,11 @@
+body{
+  font-size: 30px;
+  color: white;
+  background-color: #fabada;
+}
+.div1{
+  height: 100px;
+  background-color: #F3E874;
+  position: fixed;
+  z-index: 1;
+}

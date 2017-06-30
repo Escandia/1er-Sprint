@@ -1,0 +1,51 @@
+body{
+  color: gray;
+  padding: 0px;
+  margin: 0px;
+  font-size: 20px;
+  box-sizing: border-box;
+}
+nav{
+  color: white;
+  background-color: black;
+  display: flex;
+}
+.date-autor{
+  display: flex;
+  justify-content: space-around;
+}
+nav, h2{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+}
+.botons{
+  display: flex;
+}
+
+.content{
+  width: 100%;
+  max-width: 600px;
+  justify-content: center;
+  font-size: 18px;
+}
+footer{
+display: flex;
+justify-content: space-around;
+position: relative;
+}
+li{
+  list-style: none;
+  display: flex;
+  text-decoration: none;
+  margin: 10px;
+}
+li:hover{
+  color: pink;
+}
+a{
+  text-decoration: none;
+}
+.network{
+  display: flex;
+}

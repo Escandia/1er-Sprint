@@ -1,0 +1,90 @@
+body{
+  background-image: url(img/horn.png);
+  width: 100%;
+}
+
+.nav{
+  width: 100%;
+  text-align: center;
+  background-color: #E5BDA3;
+}
+h1{
+  color: #1BB0B3;
+  text-align: center;
+  font-size: 100px;
+  font-family: Sansita, cursive;
+}
+h2{
+  color:#E5BDA3;;
+  text-align: center;
+  font-size: 40px;
+  font-family: Sansita, cursive;
+  font-style: italic;
+}
+.images{
+  background-color: #F5C9E7;
+  padding: 50px;
+  margin: 50px;
+  text-align: center;
+}
+
+.section1{
+padding-top: 8px;
+padding-left: 4px;
+padding-right: 4px;
+}
+.section2{
+padding-left: 4px;
+padding-right: 4px;
+}
+.section3{
+padding-bottom: 8px;
+padding-left: 4px;
+padding-right: 4px;
+}
+
+
+
+.img1{
+  width:310px;
+  height: 310px;
+  padding: 4px;
+}
+.img2{
+width:310px;
+height: 310px;
+padding: 4px;
+}
+.img3{
+width:310px;
+height: 310px;
+padding: 4px;
+}
+
+
+.img4{
+width:955px;
+height:310px;
+padding: 4px;
+}
+
+
+.img5{
+width:633px;
+height: 310px;
+padding: 4px;
+}
+.img6{
+width:310px;
+height: 310px;
+padding: 4px;
+}
+footer{
+    width: 100%;
+    text-align: center;
+    background-color: #E5BDA3;
+    font-family: Sansita, cursive;
+    font-size:30px;
+    height: 50px;
+    color: white;
+}

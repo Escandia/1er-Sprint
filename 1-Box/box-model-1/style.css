@@ -1,0 +1,30 @@
+li{
+  list-style:none;
+  display: inline;
+  margin-right: 12px;
+}
+body{
+  background-color: #D3F2F2;
+}
+h1{
+  color: #05836E;
+  text-align: center;
+  font-size: 100px
+}
+h1:hover{
+    color: white;
+}
+ul{
+  background-color: #05836E;
+  text-align: center;
+  margin: 30px;
+}
+a{
+  font-size: 35px;
+  color: white;
+  text-decoration: none;
+}
+a:hover{
+  color: pink;
+  font-size: 40px;
+}

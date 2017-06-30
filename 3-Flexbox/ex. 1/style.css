@@ -1,0 +1,41 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-image: url(img/pino.png);
+  color: white;
+}
+.container{
+  max-width: 960px;
+  width: 100%;
+  text-align: center;
+}
+
+header{
+  background-color:#1F5B5C;
+  padding: 1em;
+}
+.padding{
+  padding: 2em;
+}
+.part-content{
+  display:flex;
+}
+.aside-1{
+ background-color: #1F4247;
+}
+.content{
+  background-color: #55B49C;
+}
+.aside-2{
+ background-color: #1F4247;
+}
+.col1-4{
+  width: 25%
+}
+.col2-4{
+  width: 50%
+}
+footer{
+  background-color: #0F2226;
+}
